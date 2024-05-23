@@ -1,2 +1,3 @@
-# Red-White-Project
-This is my Repository.
+# Red-White
+This is my Repository. 
+C-Programming Language
